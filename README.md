@@ -7,4 +7,4 @@ Great learning experience.
 We are building an application that plays a sound if a key is pressed.
 
 ## Here is how the interface looks like.
-![Image of UI](https://raw.githubusercontent.com/probuse/etwinLearnsJavaScript/master/imgs/ui.png)
+![Image of UI](https://raw.githubusercontent.com/probuse/etwinLearnsJavaScript/master/Day1-Drumkit/imgs/ui.png)
